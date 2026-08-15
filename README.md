@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shray Srivastava
 =========================================================================================================================================
-<p align="left">
-  <b>🔊 Listen to my AI introduction:</b><br>
-  <video src="https://github.com/user-attachments/files/31096828/output.mp3" controls width="320" height="40"></video>
-</p>
+[![Listen to my AI Intro](https://shields.io)](https://github.com/user-attachments/files/31096828/output.mp3)
 
 Ideas Generator
 ---------------
